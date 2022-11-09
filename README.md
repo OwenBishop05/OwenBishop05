@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OwenBishop05
-- 👀 I’m interested in Video Games, and Coding!
-- 🌱 I’m currently learning Python and C++.
+- 👀 I’m interested in Coding/Programming, Game Development!
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me - Obish2005@gmail.com
 
 <!---
